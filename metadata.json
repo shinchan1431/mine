@@ -1,0 +1,6 @@
+{
+  "name": "Mine - Personal AI Assistant",
+  "description": "A proactive personal AI assistant for tasks, reminders, smart email triage, daily schedule, and memory recall.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
